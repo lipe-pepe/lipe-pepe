@@ -1,16 +1,13 @@
-## Hi there 👋
+##  Hi, my name is Felipe Pêpe 👋
 
-<!--
-**lipe-pepe/lipe-pepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **full-stack developer** with an entrepreneurial spirit, passionate about projects that involve software, creativity, and challenge.
 
-Here are some ideas to get you started:
+- 🎓 I'm completing a Computer Engineering degree at UFRJ (Federal University of Rio de Janeiro).
+- 🎲 I'm currently developing an online web game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Portfolio
+
+- For more of my projects and experience, [checkout my portfolio page](https://www.felipepepe.dev/).!
+
+##### Connect with me:
+[<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/felipe-pepe/)
